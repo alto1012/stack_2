@@ -28,7 +28,6 @@
 
    <scm>
     <developerConnection>scm:git:https://github.com/my-org/my-project.git</developerConnection>
-    <tag>stack_2-0.0</tag>
   </scm>
 
   <build>
