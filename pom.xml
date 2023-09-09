@@ -27,7 +27,7 @@
   </dependencies>
 
    <scm>
-    <developerConnection>scm:git:https://github.com/my-org/my-project.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/alto1012/stack_2.git</developerConnection>
   </scm>
 
   <build>
